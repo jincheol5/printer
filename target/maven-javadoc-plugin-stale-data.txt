@@ -1,0 +1,45 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'C:/Users/oscar/eclipse-workspace/printer/src/main/java;C:/Users/oscar/eclipse-workspace/printer/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/oscar/eclipse-workspace/printer/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'printer 0.0.1 API'
+-use
+-version
+-windowtitle
+'printer 0.0.1 API'
+'C:/Users/oscar/eclipse-workspace/printer/src/main/java/io/github/jincheol5/printer/App.java'
+'C:/Users/oscar/eclipse-workspace/printer/src/main/java/io/github/jincheol5/printer/Printer.java'
+C:\Users\oscar\eclipse-workspace\printer\src\main\java = 1672628900834
+C:\Users\oscar\eclipse-workspace\printer\target\generated-sources\annotations = 1672721199655
+C:\Users\oscar\eclipse-workspace\printer\target\apidocs\allclasses-index.html = 1672721202337
+C:\Users\oscar\eclipse-workspace\printer\target\apidocs\allpackages-index.html = 1672721202339
+C:\Users\oscar\eclipse-workspace\printer\target\apidocs\copy.svg = 1672721202357
+C:\Users\oscar\eclipse-workspace\printer\target\apidocs\element-list = 1672721202310
+C:\Users\oscar\eclipse-workspace\printer\target\apidocs\help-doc.html = 1672721202354
+C:\Users\oscar\eclipse-workspace\printer\target\apidocs\index-all.html = 1672721202349
+C:\Users\oscar\eclipse-workspace\printer\target\apidocs\index.html = 1672721202350
+C:\Users\oscar\eclipse-workspace\printer\target\apidocs\jquery-ui.overrides.css = 1672721202373
+C:\Users\oscar\eclipse-workspace\printer\target\apidocs\member-search-index.js = 1672721202342
+C:\Users\oscar\eclipse-workspace\printer\target\apidocs\module-search-index.js = 1672721202339
+C:\Users\oscar\eclipse-workspace\printer\target\apidocs\overview-tree.html = 1672721202331
+C:\Users\oscar\eclipse-workspace\printer\target\apidocs\package-search-index.js = 1672721202340
+C:\Users\oscar\eclipse-workspace\printer\target\apidocs\script.js = 1672721202356
+C:\Users\oscar\eclipse-workspace\printer\target\apidocs\search.js = 1672721202358
+C:\Users\oscar\eclipse-workspace\printer\target\apidocs\stylesheet.css = 1672721202355
+C:\Users\oscar\eclipse-workspace\printer\target\apidocs\tag-search-index.js = 1672721202343
+C:\Users\oscar\eclipse-workspace\printer\target\apidocs\type-search-index.js = 1672721202341

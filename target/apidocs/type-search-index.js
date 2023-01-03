@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"io.github.jincheol5.printer","l":"App"},{"p":"io.github.jincheol5.printer","l":"Printer"}];updateSearchResults();
